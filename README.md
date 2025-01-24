@@ -1,1 +1,1 @@
-<h1>NLP_Practicals</h1>
+<h1>NLP_Practical</h1>
